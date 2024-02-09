@@ -8,7 +8,7 @@
         // Criar a conexão com o banco de dados
         $localhost = 'localhost';
         $user = 'root';
-        $pass = 'mariadb';
+        $pass = 'senha';
         $db = 'db_web';
 
         $conexao = new mysqli($localhost,$user,$pass,$db);
