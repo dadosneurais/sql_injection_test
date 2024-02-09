@@ -32,8 +32,8 @@ abra o arquivo no localhost
 No campo usuário: adicione o que quiser ou deixe em branco;
 No campo senha: pode adicionar o que quiser ou deixar em branco, exemplo:
 
-senha: asdfçlkj' or '1' = '1
-senha: ' or '1' = '1
+- senha: asdfçlkj' or '1' = '1
+- senha: ' or '1' = '1
 
 Esse campo vai continuar a execução do sql, via php,
 esse código irá retornar todos os usuários cadastrados e senhas,
