@@ -9,7 +9,7 @@
         $localhost = 'localhost';
         $user = 'root';
         $pass = 'senha';
-        $db = 'db_web';
+        $db = 'db_injection';
 
         $conexao = new mysqli($localhost,$user,$pass,$db);
 
